@@ -50,19 +50,19 @@ The infrastructure is defined as code, making deployments repeatable, consistent
 
 ### ☁️ S3 Bucket Created
 
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](screenshots/s3-bucket-created.JPG)
 
 ### 🌐 Static Website Hosting Enabled
 
-![Static Website Hosting](screenshots/static-hosting.png)
+![Static Website Hosting](screenshots/static-website-hosting-enabled.JPG)
 
 ### 🏗️ Terraform Apply
 
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](screenshots/terraform-apply-success.JPG)
 
 ### 🌍 Website Running
 
-![Website Output](screenshots/website-output.png)
+![Website Output](screenshots/website-running.JPG)
 
 ## 🚀 Skills Demonstrated
 
