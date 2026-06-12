@@ -35,15 +35,20 @@ The infrastructure is defined as code, making deployments repeatable, consistent
 
 6️⃣ Access the hosted website through the S3 website endpoint.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
-.
-├── main.tf
+terraform-s3-website-hosting/
+├── images/
+├── .gitignore
+├── README.md
+├── provider.tf
 ├── variables.tf
-├── outputs.tf
-├── terraform.tfvars
-└── README.md
+├── main.tf
+├── output.tf
+├── index.html
+├── style.css
+└── .terraform.lock.hcl
 ```
 
 ## 📸 Project Screenshots
